@@ -1,0 +1,6 @@
+data/
+docs/
+.vscode
+*.npy
+*.pdf
+src/__pycache__
